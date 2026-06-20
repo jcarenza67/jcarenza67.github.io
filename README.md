@@ -1,6 +1,6 @@
 # Joseph Wilfong
 
-**Field Technician | Software Developer | Computer Science, SNHU**
+Field Technician | Software Developer | Computer Science, SNHU
 
 Shelton, Washington · [GitHub](https://github.com/jcarenza67)
 
