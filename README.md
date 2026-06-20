@@ -112,7 +112,7 @@ The visual design was also a deliberate part of the enhancement. The original ap
 
 **Course Outcomes**
 
-This enhancement addresses the outcomes I planned in Module One. I demonstrated the ability to use well-founded and innovative techniques by translating an Android architecture into a modern React component structure and making deliberate decisions about where patterns needed to change versus where they could carry over directly. I addressed the security outcome by implementing frontend input validation as the first line of defense against malformed data before it reaches the backend, and by acknowledging the auth placeholder with a plan to replace it with secure server-side authentication in Enhancement Three. The professional communications outcome is addressed through this narrative and the code review above.
+This enhancement addresses the outcomes I planned in Module One. I demonstrated the ability to use well-founded and innovative techniques by translating an Android architecture into a modern React component structure and making deliberate decisions about where patterns needed to change versus where they could carry over directly. I addressed the security outcome by implementing frontend input validation as the first line of defense against malformed data before it reaches the backend. The professional communications outcome is addressed through this narrative and the code review above.
 
 My outcome coverage plan from Module One didn't need any updates. The plan I submitted holds up against what I actually built.
 
